@@ -1,0 +1,1 @@
+server=localhost;database=db_inventarios_fs;uid=root;pwd=conker1385;CHARSET=utf8;convert zero datetime=True

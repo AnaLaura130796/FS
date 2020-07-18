@@ -1,0 +1,12 @@
+C:\Users\PMM\Documents\inventariosFS\inventariosFS\bin\x86\Debug\inventariosFS.exe.config
+C:\Users\PMM\Documents\inventariosFS\inventariosFS\bin\x86\Debug\inventariosFS.exe
+C:\Users\PMM\Documents\inventariosFS\inventariosFS\bin\x86\Debug\inventariosFS.pdb
+C:\Users\PMM\Documents\inventariosFS\inventariosFS\obj\x86\Debug\inventariosFS.FormPrincipal.resources
+C:\Users\PMM\Documents\inventariosFS\inventariosFS\obj\x86\Debug\inventariosFS.FormRegistrarEntrada.resources
+C:\Users\PMM\Documents\inventariosFS\inventariosFS\obj\x86\Debug\inventariosFS.FormRegistrarProducto.resources
+C:\Users\PMM\Documents\inventariosFS\inventariosFS\obj\x86\Debug\inventariosFS.FormPanelAdmin.resources
+C:\Users\PMM\Documents\inventariosFS\inventariosFS\obj\x86\Debug\inventariosFS.FormVerInventario.resources
+C:\Users\PMM\Documents\inventariosFS\inventariosFS\obj\x86\Debug\inventariosFS.Properties.Resources.resources
+C:\Users\PMM\Documents\inventariosFS\inventariosFS\obj\x86\Debug\inventariosFS.csproj.GenerateResource.Cache
+C:\Users\PMM\Documents\inventariosFS\inventariosFS\obj\x86\Debug\inventariosFS.exe
+C:\Users\PMM\Documents\inventariosFS\inventariosFS\obj\x86\Debug\inventariosFS.pdb
